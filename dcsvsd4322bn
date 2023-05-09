@@ -3,8 +3,10 @@ if game.Players.LocalPlayer.Name == "AlantheKing123g0XD" then
        local ban= game.Players.LocalPlayer
 wait(7)
 
-                              ban:Kick("YOU BANNED BYFRON DETECTED!")
+                              ban:Kick[["YOU BANNED BYFRON
+                                             DETECTED! "]]
          wait(5.4)
                                                                       ban:Kick("I’m just kidding LoL!")
     setclipboard("https://discord.gg/aZ27s67hrM")
                                                                     end
+ 
